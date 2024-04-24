@@ -1,4 +1,4 @@
-![Example images SDFD]([/repository/assets/employee.png](https://github.com/gebaltso/SDFD/blob/main/examplesSDFD.png)?raw=true "Example Images of SDFD")
+![Example images SDFD]([examplesSDFD.png?raw=true "Example Images of SDFD")
 
 
 
