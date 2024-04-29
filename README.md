@@ -14,6 +14,7 @@ hairstyle, and accessories.
 :large_blue_diamond: File finalPromptsSeparated.csv contains the same prompts with finalPrompts.csv but the attributes are comma separated.
 
 ### How to Use to Reproduce the Images
+-----
 
 :exclamation: The first step is to install the Diffusers. For more information see the [official documentation](https://github.com/huggingface/diffusers) . 
 
@@ -24,4 +25,5 @@ hairstyle, and accessories.
 :warning: Do not forget to change image output directory path as well as any other variable as needed.
 
 ### Citation
+-----
 
