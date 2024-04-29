@@ -2,6 +2,7 @@
 
 
 ### Description
+-----
 
 :large_orange_diamond: We generated 1000 different synthetic face images that constitute the **SDFD (Stable Diffusion Face-image Dataset)**. SDFD captures a broad spectrum of facial diversity encompassing not only demographics and biometrics but also non-permanent traits like make-up,
 hairstyle, and accessories. 
