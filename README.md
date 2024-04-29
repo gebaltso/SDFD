@@ -13,5 +13,9 @@ We created various prompts that guide a state-of-the-art text-to-image model **(
 :exclamation: The first step is to install the Diffusers. For more information see the [official documentation](https://github.com/huggingface/diffusers) . 
 
 :arrow_right: In order to produce images run the **SDFD.py** file.
+`python3 SDFD.py`
 
 :warning: Do not forget to change image output directory path as well as any other variable as needed.
+
+### Citation
+
