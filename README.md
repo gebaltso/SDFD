@@ -16,7 +16,7 @@ hairstyle, and accessories.
 ### How to Use to Reproduce the Images
 -----
 
-:exclamation: The first step is to install the Diffusers. For more information see the [official documentation](https://github.com/huggingface/diffusers) . 
+:exclamation: The first step is to install the Diffusers. We recommend installing them in a virtual environment from Conda. For more information see the [official documentation](https://github.com/huggingface/diffusers) . 
 
 :arrow_right: In order to produce images run the **SDFD.py** file:
 
