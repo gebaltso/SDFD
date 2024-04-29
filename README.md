@@ -9,4 +9,4 @@ We created various prompts that guide a state-of-the-art text-to-image model (St
 
 In order to produce images run the SDFD.py file.
 
-Do not forget to change image output directory path as well as any other variable as needed.
+:warning: Do not forget to change image output directory path as well as any other variable as needed.
