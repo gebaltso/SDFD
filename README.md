@@ -7,6 +7,6 @@ hairstyle, and accessories.
 We created various prompts that guide a state-of-the-art text-to-image model (Stable Diffusion 2.1)) in generating a comprehensive dataset of high-quality realistic images and can be used as an evaluation set in face analysis systems.
 
 
-In order to produce images run the SDFD.py file.
+:arrow_right: In order to produce images run the SDFD.py file.
 
 :warning: Do not forget to change image output directory path as well as any other variable as needed.
