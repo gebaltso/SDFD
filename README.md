@@ -8,7 +8,11 @@ hairstyle, and accessories.
 
 We created various prompts that guide a state-of-the-art text-to-image model **(Stable Diffusion 2.1)**) in generating a comprehensive dataset of high-quality realistic images and can be used as an evaluation set in face analysis systems.
 
-### How to Use
+File finalPrompts.csv contains all the corresponding prompts that we used to get the SDFD dataset.
+
+File finalPromptsSeparated.csv contains the same prompts with finalPrompts.csv but the attributes are comma separated.
+
+### How to Use to Produce Your Own Images
 
 :exclamation: The first step is to install the Diffusers. For more information see the [official documentation](https://github.com/huggingface/diffusers) . 
 
