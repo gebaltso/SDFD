@@ -26,7 +26,7 @@ hairstyle, and accessories.
 
 ### Citation
 -----
-
+``` 
 @INPROCEEDINGS{10581864,
   author={Baltsou, Georgia and Sarridis, Ioannis and Koutlis, Christos and Papadopoulos, Symeon},
   booktitle={2024 IEEE 18th International Conference on Automatic Face and Gesture Recognition (FG)}, 
@@ -38,3 +38,9 @@ hairstyle, and accessories.
   keywords={Training;Systematics;Face recognition;Text to image;Gesture recognition;Skin;Robustness},
   doi={10.1109/FG59268.2024.10581864}}
 
+```
+
+## Acknowledgments
+This research was supported by the EU Horizon Europe projects MAMMOth
+(Grant Agreement 101070285) and ELIAS (Grant Agreement 101120237).
+<div align="center"> <img src="assets/mammoth_logo.svg" width="20%" alt="MAMMOth Project Logo"> <img src="assets/elias_logo.png" width="20%" alt="ELIAS Project Logo"> </div>
