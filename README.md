@@ -27,5 +27,14 @@ hairstyle, and accessories.
 ### Citation
 -----
 
-TBA
+@INPROCEEDINGS{10581864,
+  author={Baltsou, Georgia and Sarridis, Ioannis and Koutlis, Christos and Papadopoulos, Symeon},
+  booktitle={2024 IEEE 18th International Conference on Automatic Face and Gesture Recognition (FG)}, 
+  title={SDFD: Building a Versatile Synthetic Face Image Dataset with Diverse Attributes}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-10},
+  keywords={Training;Systematics;Face recognition;Text to image;Gesture recognition;Skin;Robustness},
+  doi={10.1109/FG59268.2024.10581864}}
 
