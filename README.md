@@ -41,6 +41,6 @@ hairstyle, and accessories.
 ```
 
 ## Acknowledgments
-This research was supported by the EU Horizon Europe projects MAMMOth
+This research was supported by the EU Horizon Europe project MAMMOth
 (Grant Agreement 101070285).
 
