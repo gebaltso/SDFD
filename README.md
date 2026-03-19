@@ -17,11 +17,15 @@ data modalities (like tabular data, images, text, graphs). Learn more
 
 ## ✨ About
 
-### Description
------
+Face recognition and demographic analysis are no longer tools used only by specialists — they are embedded in hiring platforms, border control systems, banking apps, smart cameras, and employee monitoring tools.
+**SDFD (Stable Diffusion Face Dataset)** is a dataset of 1,000 photorealistic synthetic face images, purpose-built to evaluate whether an AI system truly works for everyone. Unlike most face datasets — which define diversity narrowly in terms of skin tone, age, and gender — SDFD also captures the enormous variety of how people actually look: different hairstyles and colors, glasses, hats, religious head coverings (hijabs, turbans, veils), tattoos, makeup, facial hair, and a wide range of emotional expressions.
+**Why does this matter for your organization?**
+- **For risk and legal teams:** Laws and regulations — including the EU AI Act — are increasingly requiring organizations to prove that their AI systems treat everyone fairly. SDFD gives you clear, documented test results that show how a system performs across different groups of people, including groups that are typically left out of standard testing.
+- **For product and innovation managers:** If your product includes a face analysis feature — even one bought from an external provider — any errors or unfair outcomes will reflect on you. SDFD helps you catch those problems early, before your customers do.
+- **For ethics and DEI leads:** Fairness in AI goes beyond race and gender. SDFD is one of the first datasets to deliberately include people wearing religious coverings, people with non-binary gender expressions, and a wide range of cultural styles and accessories. It puts a broader, more realistic picture of human diversity into the testing process.
 
-:large_orange_diamond: We generated 1000 different synthetic face images that constitute the **SDFD (Stable Diffusion Face-image Dataset)**. SDFD captures a broad spectrum of facial diversity encompassing not only demographics and biometrics but also non-permanent traits like make-up,
-hairstyle, and accessories. 
+### Details
+-----
 
 :large_orange_diamond: We created various prompts that guide a state-of-the-art text-to-image model **(Stable Diffusion 2.1)**) in generating a comprehensive dataset of high-quality realistic images and can be used as an evaluation set in face analysis systems.
 
