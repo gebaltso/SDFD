@@ -12,6 +12,8 @@ data modalities (like tabular data, images, text, graphs). Learn more
 ## 👥 Who is this for?
 
 - **If you build or evaluate AI systems that involve faces** such as identity verification or access control — SDFD gives you a ready-made evaluation set that goes far beyond what standard datasets offer. It was specifically designed to challenge your system with the full range of faces it will encounter in the real world: different races, ages, hairstyles, accessories, religious coverings, makeup styles, and more.
+- **If you are a policymaker, auditor, or compliance officer**, there is no need to understand how the dataset was made. What matters is this: when an AI vendor tells you their face recognition or demographic prediction system is "fair" or "accurate," you should ask — accurate on what kinds of faces? SDFD was built precisely to expose the gaps. Our experiments show that even well-known fairness-focused datasets miss faces that commonly appear in the real world. If your organization deploys a face analysis system, you can ask your vendor to benchmark their system on SDFD and report results broken down by race and/or gender group.
+- **Are you a non-expert?** Ask your organization's AI team whether the face analysis tools they use have been tested on datasets that include people wearing hijabs, turbans, having face paint, unconventional hairstyles, or non-binary gender presentations. If not, SDFD is a concrete resource to point them to.
 
 ## ✨ About
 
