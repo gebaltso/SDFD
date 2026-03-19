@@ -9,6 +9,12 @@ settings (safeguarding multiple races, genders, etc), and across multiple
 data modalities (like tabular data, images, text, graphs). Learn more 
 [here](https://mammoth-eu.github.io/mammoth-commons/index.html).
 
+## 👥 Who is this for?
+
+- **If you build or evaluate AI systems that involve faces** such as identity verification or access control — SDFD gives you a ready-made evaluation set that goes far beyond what standard datasets offer. It was specifically designed to challenge your system with the full range of faces it will encounter in the real world: different races, ages, hairstyles, accessories, religious coverings, makeup styles, and more.
+
+## ✨ About
+
 ### Description
 -----
 
