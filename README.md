@@ -25,7 +25,6 @@ Face recognition and demographic analysis are no longer tools used only by speci
 - **For ethics and DEI leads:** Fairness in AI goes beyond race and gender. SDFD is one of the first datasets to deliberately include people wearing religious coverings, people with non-binary gender expressions, and a wide range of cultural styles and accessories. It puts a broader, more realistic picture of human diversity into the testing process.
 
 ## ⚡ Details
------
 
 :large_orange_diamond: We created various prompts that guide a state-of-the-art text-to-image model **(Stable Diffusion 2.1)**) in generating a comprehensive dataset of high-quality realistic images and can be used as an evaluation set in face analysis systems.
 
@@ -34,7 +33,6 @@ Face recognition and demographic analysis are no longer tools used only by speci
 :large_blue_diamond: File finalPromptsSeparated.csv contains the same prompts with finalPrompts.csv but the attributes are comma separated.
 
 ## 🚀 How to Use to Reproduce the Images
------
 
 :exclamation: The first step is to install the Diffusers. We recommend installing them in a virtual environment from Conda. For more information see the [official documentation](https://github.com/huggingface/diffusers) . 
 
@@ -45,7 +43,7 @@ Face recognition and demographic analysis are no longer tools used only by speci
 :warning: Do not forget to change image output directory path as well as any other variable as needed.
 
 ## 📜 Citation
------
+
 ``` 
 @INPROCEEDINGS{10581864,
   author={Baltsou, Georgia and Sarridis, Ioannis and Koutlis, Christos and Papadopoulos, Symeon},
